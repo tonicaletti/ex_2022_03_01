@@ -1,9 +1,7 @@
-//testnow
 #include <iostream>
 #include <tuple>
 
 //fdgdfgbin
-//local version
 
 std::pair<int, int> numbertobinary(int x)
 {
@@ -56,7 +54,7 @@ int main()
     {
         std::cout << i << ", binary: " << array[i] << ", number_of_ones: " << nums1[i] << std::endl;
     }
-    std::cout << "end.";
+
     //std::cout << std::endl;
     //td::cout << numbertobinary(x) << std::endl;
 }
